@@ -1,0 +1,5 @@
+{
+  "name": "@jarred/bun-test-package",
+  "main": "index.js",
+  "version": "0.0.1"
+}
